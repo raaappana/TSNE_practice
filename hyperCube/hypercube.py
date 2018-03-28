@@ -1,3 +1,5 @@
+# Make a hypercube, perform t-SNE on it, and then plots it on a 2D plot.
+
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 
